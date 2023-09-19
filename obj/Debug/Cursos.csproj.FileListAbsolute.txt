@@ -1,0 +1,163 @@
+C:\Users\Unicesumar\Desktop\Cursos C#\Cursos\bin\Debug\Cursos.exe.config
+C:\Users\Unicesumar\Desktop\Cursos C#\Cursos\bin\Debug\Cursos.exe
+C:\Users\Unicesumar\Desktop\Cursos C#\Cursos\bin\Debug\Cursos.pdb
+C:\Users\Unicesumar\Desktop\Cursos C#\Cursos\obj\Debug\Cursos.csproj.AssemblyReference.cache
+C:\Users\Unicesumar\Desktop\Cursos C#\Cursos\obj\Debug\Cursos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Unicesumar\Desktop\Cursos C#\Cursos\obj\Debug\Cursos.frmPrincipal.resources
+C:\Users\Unicesumar\Desktop\Cursos C#\Cursos\obj\Debug\Cursos.Properties.Resources.resources
+C:\Users\Unicesumar\Desktop\Cursos C#\Cursos\obj\Debug\Cursos.csproj.GenerateResource.cache
+C:\Users\Unicesumar\Desktop\Cursos C#\Cursos\obj\Debug\Cursos.csproj.CoreCompileInputs.cache
+C:\Users\Unicesumar\Desktop\Cursos C#\Cursos\obj\Debug\Cursos.exe
+C:\Users\Unicesumar\Desktop\Cursos C#\Cursos\obj\Debug\Cursos.pdb
+C:\Users\Unicesumar\Desktop\Cursos C#\Cursos\obj\Debug\Cursos.frmCadastrarAluno.resources
+C:\Users\Unicesumar\Desktop\Colegio\Cursos\bin\Debug\Cursos.exe.config
+C:\Users\Unicesumar\Desktop\Colegio\Cursos\bin\Debug\Cursos.exe
+C:\Users\Unicesumar\Desktop\Colegio\Cursos\bin\Debug\Cursos.pdb
+C:\Users\Unicesumar\Desktop\Colegio\Cursos\obj\Debug\Cursos.csproj.AssemblyReference.cache
+C:\Users\Unicesumar\Desktop\Colegio\Cursos\obj\Debug\Cursos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Unicesumar\Desktop\Colegio\Cursos\obj\Debug\Cursos.frmCadastrarAluno.resources
+C:\Users\Unicesumar\Desktop\Colegio\Cursos\obj\Debug\Cursos.frmPrincipal.resources
+C:\Users\Unicesumar\Desktop\Colegio\Cursos\obj\Debug\Cursos.Properties.Resources.resources
+C:\Users\Unicesumar\Desktop\Colegio\Cursos\obj\Debug\Cursos.csproj.GenerateResource.cache
+C:\Users\Unicesumar\Desktop\Colegio\Cursos\obj\Debug\Cursos.csproj.CoreCompileInputs.cache
+C:\Users\Unicesumar\Desktop\Colegio\Cursos\obj\Debug\Cursos.exe
+C:\Users\Unicesumar\Desktop\Colegio\Cursos\obj\Debug\Cursos.pdb
+C:\Users\Unicesumar\Desktop\Colegio\Cursos\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Unicesumar\Desktop\Colegio\Cursos\bin\Debug\Google.Protobuf.dll
+C:\Users\Unicesumar\Desktop\Colegio\Cursos\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Unicesumar\Desktop\Colegio\Cursos\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Unicesumar\Desktop\Colegio\Cursos\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Unicesumar\Desktop\Colegio\Cursos\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Unicesumar\Desktop\Colegio\Cursos\bin\Debug\MySql.Data.dll
+C:\Users\Unicesumar\Desktop\Colegio\Cursos\bin\Debug\System.Buffers.dll
+C:\Users\Unicesumar\Desktop\Colegio\Cursos\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Unicesumar\Desktop\Colegio\Cursos\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Unicesumar\Desktop\Colegio\Cursos\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Unicesumar\Desktop\Colegio\Cursos\bin\Debug\System.Memory.dll
+C:\Users\Unicesumar\Desktop\Colegio\Cursos\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Unicesumar\Desktop\Colegio\Cursos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Unicesumar\Desktop\Colegio\Cursos\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Unicesumar\Desktop\Colegio\Cursos\bin\Debug\ZstdSharp.dll
+C:\Users\Unicesumar\Desktop\Colegio\Cursos\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Unicesumar\Desktop\Colegio\Cursos\bin\Debug\Google.Protobuf.pdb
+C:\Users\Unicesumar\Desktop\Colegio\Cursos\bin\Debug\Google.Protobuf.xml
+C:\Users\Unicesumar\Desktop\Colegio\Cursos\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Unicesumar\Desktop\Colegio\Cursos\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Unicesumar\Desktop\Colegio\Cursos\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Unicesumar\Desktop\Colegio\Cursos\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Unicesumar\Desktop\Colegio\Cursos\bin\Debug\MySql.Data.xml
+C:\Users\Unicesumar\Desktop\Colegio\Cursos\bin\Debug\System.Buffers.xml
+C:\Users\Unicesumar\Desktop\Colegio\Cursos\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Unicesumar\Desktop\Colegio\Cursos\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Unicesumar\Desktop\Colegio\Cursos\bin\Debug\System.Memory.xml
+C:\Users\Unicesumar\Desktop\Colegio\Cursos\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Unicesumar\Desktop\Colegio\Cursos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Unicesumar\Desktop\Colegio\Cursos\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Unicesumar\Desktop\Colegio\Cursos\obj\Debug\Cursos.frmCadastrarProfessor.resources
+C:\Users\Unicesumar\Desktop\Colegio\Cursos\obj\Debug\Cursos.frmConsultarAlunos.resources
+C:\Users\Unicesumar\Desktop\Colegio\Cursos\obj\Debug\Cursos.csproj.CopyComplete
+C:\Users\Unicesumar\Desktop\Colegio\Cursos\obj\Debug\Cursos.frmCadastrarCurso.resources
+C:\Users\Unicesumar\Desktop\Colegio\Cursos\obj\Debug\Cursos.frmCadastrarDisciplinas.resources
+C:\Users\Unicesumar\Desktop\Colegio\Cursos\obj\Debug\Cursos.frmConsultarCursos.resources
+C:\Users\Unicesumar\Desktop\Colegio\Cursos\obj\Debug\Cursos.frmConsultarDisciplinas.resources
+C:\Users\Unicesumar\Desktop\Colegio\Cursos\obj\Debug\Cursos.frmConsultarProfessor.resources
+D:\Faculdade\Linguagem e Técnica de Programação\Aulas\Colegio\Cursos\bin\Debug\Cursos.exe.config
+D:\Faculdade\Linguagem e Técnica de Programação\Aulas\Colegio\Cursos\bin\Debug\Cursos.exe
+D:\Faculdade\Linguagem e Técnica de Programação\Aulas\Colegio\Cursos\bin\Debug\Cursos.pdb
+D:\Faculdade\Linguagem e Técnica de Programação\Aulas\Colegio\Cursos\bin\Debug\BouncyCastle.Crypto.dll
+D:\Faculdade\Linguagem e Técnica de Programação\Aulas\Colegio\Cursos\bin\Debug\Google.Protobuf.dll
+D:\Faculdade\Linguagem e Técnica de Programação\Aulas\Colegio\Cursos\bin\Debug\K4os.Compression.LZ4.dll
+D:\Faculdade\Linguagem e Técnica de Programação\Aulas\Colegio\Cursos\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Faculdade\Linguagem e Técnica de Programação\Aulas\Colegio\Cursos\bin\Debug\K4os.Hash.xxHash.dll
+D:\Faculdade\Linguagem e Técnica de Programação\Aulas\Colegio\Cursos\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Faculdade\Linguagem e Técnica de Programação\Aulas\Colegio\Cursos\bin\Debug\MySql.Data.dll
+D:\Faculdade\Linguagem e Técnica de Programação\Aulas\Colegio\Cursos\bin\Debug\System.Buffers.dll
+D:\Faculdade\Linguagem e Técnica de Programação\Aulas\Colegio\Cursos\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Faculdade\Linguagem e Técnica de Programação\Aulas\Colegio\Cursos\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Faculdade\Linguagem e Técnica de Programação\Aulas\Colegio\Cursos\bin\Debug\System.IO.Pipelines.dll
+D:\Faculdade\Linguagem e Técnica de Programação\Aulas\Colegio\Cursos\bin\Debug\System.Memory.dll
+D:\Faculdade\Linguagem e Técnica de Programação\Aulas\Colegio\Cursos\bin\Debug\System.Numerics.Vectors.dll
+D:\Faculdade\Linguagem e Técnica de Programação\Aulas\Colegio\Cursos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Faculdade\Linguagem e Técnica de Programação\Aulas\Colegio\Cursos\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Faculdade\Linguagem e Técnica de Programação\Aulas\Colegio\Cursos\bin\Debug\ZstdSharp.dll
+D:\Faculdade\Linguagem e Técnica de Programação\Aulas\Colegio\Cursos\bin\Debug\BouncyCastle.Crypto.xml
+D:\Faculdade\Linguagem e Técnica de Programação\Aulas\Colegio\Cursos\bin\Debug\Google.Protobuf.pdb
+D:\Faculdade\Linguagem e Técnica de Programação\Aulas\Colegio\Cursos\bin\Debug\Google.Protobuf.xml
+D:\Faculdade\Linguagem e Técnica de Programação\Aulas\Colegio\Cursos\bin\Debug\K4os.Compression.LZ4.xml
+D:\Faculdade\Linguagem e Técnica de Programação\Aulas\Colegio\Cursos\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Faculdade\Linguagem e Técnica de Programação\Aulas\Colegio\Cursos\bin\Debug\K4os.Hash.xxHash.xml
+D:\Faculdade\Linguagem e Técnica de Programação\Aulas\Colegio\Cursos\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Faculdade\Linguagem e Técnica de Programação\Aulas\Colegio\Cursos\bin\Debug\MySql.Data.xml
+D:\Faculdade\Linguagem e Técnica de Programação\Aulas\Colegio\Cursos\bin\Debug\System.Buffers.xml
+D:\Faculdade\Linguagem e Técnica de Programação\Aulas\Colegio\Cursos\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Faculdade\Linguagem e Técnica de Programação\Aulas\Colegio\Cursos\bin\Debug\System.IO.Pipelines.xml
+D:\Faculdade\Linguagem e Técnica de Programação\Aulas\Colegio\Cursos\bin\Debug\System.Memory.xml
+D:\Faculdade\Linguagem e Técnica de Programação\Aulas\Colegio\Cursos\bin\Debug\System.Numerics.Vectors.xml
+D:\Faculdade\Linguagem e Técnica de Programação\Aulas\Colegio\Cursos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Faculdade\Linguagem e Técnica de Programação\Aulas\Colegio\Cursos\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Faculdade\Linguagem e Técnica de Programação\Aulas\Colegio\Cursos\obj\Debug\Cursos.csproj.AssemblyReference.cache
+D:\Faculdade\Linguagem e Técnica de Programação\Aulas\Colegio\Cursos\obj\Debug\Cursos.frmCadastrarAluno.resources
+D:\Faculdade\Linguagem e Técnica de Programação\Aulas\Colegio\Cursos\obj\Debug\Cursos.frmCadastrarCurso.resources
+D:\Faculdade\Linguagem e Técnica de Programação\Aulas\Colegio\Cursos\obj\Debug\Cursos.frmCadastrarDisciplinas.resources
+D:\Faculdade\Linguagem e Técnica de Programação\Aulas\Colegio\Cursos\obj\Debug\Cursos.frmCadastrarProfessor.resources
+D:\Faculdade\Linguagem e Técnica de Programação\Aulas\Colegio\Cursos\obj\Debug\Cursos.frmConsultarAlunos.resources
+D:\Faculdade\Linguagem e Técnica de Programação\Aulas\Colegio\Cursos\obj\Debug\Cursos.frmConsultarCursos.resources
+D:\Faculdade\Linguagem e Técnica de Programação\Aulas\Colegio\Cursos\obj\Debug\Cursos.frmConsultarDisciplinas.resources
+D:\Faculdade\Linguagem e Técnica de Programação\Aulas\Colegio\Cursos\obj\Debug\Cursos.frmConsultarProfessor.resources
+D:\Faculdade\Linguagem e Técnica de Programação\Aulas\Colegio\Cursos\obj\Debug\Cursos.frmPrincipal.resources
+D:\Faculdade\Linguagem e Técnica de Programação\Aulas\Colegio\Cursos\obj\Debug\Cursos.Properties.Resources.resources
+D:\Faculdade\Linguagem e Técnica de Programação\Aulas\Colegio\Cursos\obj\Debug\Cursos.csproj.GenerateResource.cache
+D:\Faculdade\Linguagem e Técnica de Programação\Aulas\Colegio\Cursos\obj\Debug\Cursos.csproj.CoreCompileInputs.cache
+D:\Faculdade\Linguagem e Técnica de Programação\Aulas\Colegio\Cursos\obj\Debug\Cursos.csproj.CopyComplete
+D:\Faculdade\Linguagem e Técnica de Programação\Aulas\Colegio\Cursos\obj\Debug\Cursos.exe
+D:\Faculdade\Linguagem e Técnica de Programação\Aulas\Colegio\Cursos\obj\Debug\Cursos.pdb
+G:\Drives compartilhados\MEDWORK\Projetos\projectCursos\Colegio\Cursos\obj\Debug\Cursos.csproj.AssemblyReference.cache
+G:\Drives compartilhados\MEDWORK\Projetos\projectCursos\Colegio\Cursos\obj\Debug\Cursos.frmCadastrarAluno.resources
+G:\Drives compartilhados\MEDWORK\Projetos\projectCursos\Colegio\Cursos\obj\Debug\Cursos.frmCadastrarCurso.resources
+G:\Drives compartilhados\MEDWORK\Projetos\projectCursos\Colegio\Cursos\obj\Debug\Cursos.frmCadastrarDisciplinas.resources
+G:\Drives compartilhados\MEDWORK\Projetos\projectCursos\Colegio\Cursos\obj\Debug\Cursos.frmCadastrarProfessor.resources
+G:\Drives compartilhados\MEDWORK\Projetos\projectCursos\Colegio\Cursos\obj\Debug\Cursos.frmConsultarAlunos.resources
+G:\Drives compartilhados\MEDWORK\Projetos\projectCursos\Colegio\Cursos\obj\Debug\Cursos.frmConsultarCursos.resources
+G:\Drives compartilhados\MEDWORK\Projetos\projectCursos\Colegio\Cursos\obj\Debug\Cursos.frmConsultarDisciplinas.resources
+G:\Drives compartilhados\MEDWORK\Projetos\projectCursos\Colegio\Cursos\obj\Debug\Cursos.frmConsultarProfessor.resources
+G:\Drives compartilhados\MEDWORK\Projetos\projectCursos\Colegio\Cursos\obj\Debug\Cursos.frmPrincipal.resources
+G:\Drives compartilhados\MEDWORK\Projetos\projectCursos\Colegio\Cursos\obj\Debug\Cursos.Properties.Resources.resources
+G:\Drives compartilhados\MEDWORK\Projetos\projectCursos\Colegio\Cursos\obj\Debug\Cursos.csproj.GenerateResource.cache
+G:\Drives compartilhados\MEDWORK\Projetos\projectCursos\Colegio\Cursos\obj\Debug\Cursos.csproj.CoreCompileInputs.cache
+G:\Drives compartilhados\MEDWORK\Projetos\projectCursos\Colegio\Cursos\obj\Debug\Cursos.exe
+G:\Drives compartilhados\MEDWORK\Projetos\projectCursos\Colegio\Cursos\obj\Debug\Cursos.pdb
+G:\Drives compartilhados\MEDWORK\Projetos\projectCursos\Colegio\Cursos\bin\Debug\Cursos.exe.config
+G:\Drives compartilhados\MEDWORK\Projetos\projectCursos\Colegio\Cursos\bin\Debug\Cursos.exe
+G:\Drives compartilhados\MEDWORK\Projetos\projectCursos\Colegio\Cursos\bin\Debug\Cursos.pdb
+G:\Drives compartilhados\MEDWORK\Projetos\projectCursos\Colegio\Cursos\bin\Debug\BouncyCastle.Crypto.dll
+G:\Drives compartilhados\MEDWORK\Projetos\projectCursos\Colegio\Cursos\bin\Debug\Google.Protobuf.dll
+G:\Drives compartilhados\MEDWORK\Projetos\projectCursos\Colegio\Cursos\bin\Debug\K4os.Compression.LZ4.dll
+G:\Drives compartilhados\MEDWORK\Projetos\projectCursos\Colegio\Cursos\bin\Debug\K4os.Compression.LZ4.Streams.dll
+G:\Drives compartilhados\MEDWORK\Projetos\projectCursos\Colegio\Cursos\bin\Debug\K4os.Hash.xxHash.dll
+G:\Drives compartilhados\MEDWORK\Projetos\projectCursos\Colegio\Cursos\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+G:\Drives compartilhados\MEDWORK\Projetos\projectCursos\Colegio\Cursos\bin\Debug\MySql.Data.dll
+G:\Drives compartilhados\MEDWORK\Projetos\projectCursos\Colegio\Cursos\bin\Debug\System.Buffers.dll
+G:\Drives compartilhados\MEDWORK\Projetos\projectCursos\Colegio\Cursos\bin\Debug\System.Configuration.ConfigurationManager.dll
+G:\Drives compartilhados\MEDWORK\Projetos\projectCursos\Colegio\Cursos\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+G:\Drives compartilhados\MEDWORK\Projetos\projectCursos\Colegio\Cursos\bin\Debug\System.IO.Pipelines.dll
+G:\Drives compartilhados\MEDWORK\Projetos\projectCursos\Colegio\Cursos\bin\Debug\System.Memory.dll
+G:\Drives compartilhados\MEDWORK\Projetos\projectCursos\Colegio\Cursos\bin\Debug\System.Numerics.Vectors.dll
+G:\Drives compartilhados\MEDWORK\Projetos\projectCursos\Colegio\Cursos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+G:\Drives compartilhados\MEDWORK\Projetos\projectCursos\Colegio\Cursos\bin\Debug\System.Threading.Tasks.Extensions.dll
+G:\Drives compartilhados\MEDWORK\Projetos\projectCursos\Colegio\Cursos\bin\Debug\ZstdSharp.dll
+G:\Drives compartilhados\MEDWORK\Projetos\projectCursos\Colegio\Cursos\bin\Debug\BouncyCastle.Crypto.xml
+G:\Drives compartilhados\MEDWORK\Projetos\projectCursos\Colegio\Cursos\bin\Debug\Google.Protobuf.pdb
+G:\Drives compartilhados\MEDWORK\Projetos\projectCursos\Colegio\Cursos\bin\Debug\Google.Protobuf.xml
+G:\Drives compartilhados\MEDWORK\Projetos\projectCursos\Colegio\Cursos\bin\Debug\K4os.Compression.LZ4.xml
+G:\Drives compartilhados\MEDWORK\Projetos\projectCursos\Colegio\Cursos\bin\Debug\K4os.Compression.LZ4.Streams.xml
+G:\Drives compartilhados\MEDWORK\Projetos\projectCursos\Colegio\Cursos\bin\Debug\K4os.Hash.xxHash.xml
+G:\Drives compartilhados\MEDWORK\Projetos\projectCursos\Colegio\Cursos\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+G:\Drives compartilhados\MEDWORK\Projetos\projectCursos\Colegio\Cursos\bin\Debug\MySql.Data.xml
+G:\Drives compartilhados\MEDWORK\Projetos\projectCursos\Colegio\Cursos\bin\Debug\System.Buffers.xml
+G:\Drives compartilhados\MEDWORK\Projetos\projectCursos\Colegio\Cursos\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+G:\Drives compartilhados\MEDWORK\Projetos\projectCursos\Colegio\Cursos\bin\Debug\System.IO.Pipelines.xml
+G:\Drives compartilhados\MEDWORK\Projetos\projectCursos\Colegio\Cursos\bin\Debug\System.Memory.xml
+G:\Drives compartilhados\MEDWORK\Projetos\projectCursos\Colegio\Cursos\bin\Debug\System.Numerics.Vectors.xml
+G:\Drives compartilhados\MEDWORK\Projetos\projectCursos\Colegio\Cursos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+G:\Drives compartilhados\MEDWORK\Projetos\projectCursos\Colegio\Cursos\bin\Debug\System.Threading.Tasks.Extensions.xml
+G:\Drives compartilhados\MEDWORK\Projetos\projectCursos\Colegio\Cursos\obj\Debug\Cursos.csproj.CopyComplete
